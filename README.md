@@ -8,7 +8,7 @@ The full source code for this project is not publicly shared due to proprietary 
 
 ## Live Demo
 
-[View Website](https://nrgold.com)
+https://nrgold.com
 
 ## Features
 
